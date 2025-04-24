@@ -1,0 +1,16 @@
+GET http://localhost:3000/movies HTTP/1.1
+
+###
+
+GET http://localhost:3000/movies/2 HTTP/1.1
+
+###
+
+POST http://localhost:3000/movies HTTP/1.1
+Content-Type: application/json
+
+{
+    "title": "Parasite",
+        "director": "Bong Joon-ho",
+        "year": 2019
+}

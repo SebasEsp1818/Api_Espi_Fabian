@@ -1,0 +1,19 @@
+{
+  "name": "first-api",
+  "version": "1.0.0",
+  "description": "api-with-nodejs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+   "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "fabian-sebas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
