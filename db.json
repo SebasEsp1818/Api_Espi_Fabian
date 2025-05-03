@@ -1,35 +1,34 @@
 {
-    "movies": [
-      {
-        "id": 1,
-        "title": "Inception",
-        "director": "Christopher Nolan",
-        "year": 2010
-      },
-      {
-        "id": 2,
-        "title": "The Godfather",
-        "director": "Francis Ford Coppola",
-        "year": 1972
-      },
-      {
-        "id": 3,
-        "title": "Pulp Fiction",
-        "director": "Quentin Tarantino",
-        "year": 1994
-      },
-      {
-        "id": 4,
-        "title": "The Matrix",
-        "director": "The Wachowskis",
-        "year": 1999
-      },
-      {
-        "id": 5,
-        "title": "Parasite",
-        "director": "Bong Joon-ho",
-        "year": 2019
-      }
-    ]
-  }
-  
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "year": 2010
+    },
+    {
+      "id": 2,
+      "title": "Iron Man Updated",
+      "director": "Jon Favreau",
+      "year": 2010
+    },
+    {
+      "id": 3,
+      "title": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "year": 1994
+    },
+    {
+      "id": 4,
+      "title": "The Matrix",
+      "director": "The Wachowskis",
+      "year": 1999
+    },
+    {
+      "id": 5,
+      "title": "Parasite",
+      "director": "Bong Joon-ho",
+      "year": 2019
+    }
+  ]
+}

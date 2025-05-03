@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-   "dev": "nodemon index.js"
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "node",
@@ -14,6 +14,15 @@
   "author": "fabian-sebas",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasEsp1818/Api_Espi_Fabian.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SebasEsp1818/Api_Espi_Fabian/issues"
+  },
+  "homepage": "https://github.com/SebasEsp1818/Api_Espi_Fabian#readme"
 }
